@@ -1,0 +1,13 @@
+<div class="mgzn-articleToC js-articleToC is-opened" style="max-height: none;">
+  <div class="mgzn-articleToC__inner js-articleToC__inner">
+    <p class="mgzn-articleToC__head"><span class="mgzn-articleToC__headEn">CONTENTS</span><span class="mgzn-articleToC__headJp">目次</span></p>
+    <ol class="mgzn-articleToC__ol">
+        <li class="mgzn-articleToC__li"><a class="mgzn-articleToC__link js-articleAnchor" href="#heading-0">講師の職歴</a></li>
+        <li class="mgzn-articleToC__li"><a class="mgzn-articleToC__link js-articleAnchor" href="#heading-1">借入れを活用して投資ができる、不動産投資</a></li>
+        <li class="mgzn-articleToC__li"><a class="mgzn-articleToC__link js-articleAnchor" href="#heading-2">金融のプロが不動産投資を決めた4つの理由</a></li>
+        <li class="mgzn-articleToC__li"><a class="mgzn-articleToC__link js-articleAnchor" href="#heading-3">信用力に応じた資産の増やし方</a></li>
+        <li class="mgzn-articleToC__li"><a class="mgzn-articleToC__link js-articleAnchor" href="#heading-4">資産運用を取り巻く外部環境</a></li>
+    </ol>
+  </div>
+  <button class="mgzn-articleToC__open js-articleToC__open"><span>すべて表示</span></button>
+</div>
